@@ -2,4 +2,4 @@
 
 ![img](./hack2.png)
 
-> Repase GIT !!!
+> Repasen GIT !!!
